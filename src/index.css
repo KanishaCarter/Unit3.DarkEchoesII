@@ -3,16 +3,26 @@ body {
     
 }
 
-h1 {
-    text-align: center;
-    color: green;
+.main-div {
+    align-items: center;
 }
 
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    border: 5px solid blue;
+}
+
+h2 {
+    color: green;
+    font-size: 30px;
+}
 
 .episodes-list {
     text-align: center;
-    max-width: 50%;
-    border: 5px dotted black;
+    max-width: 30%;
+    border: 5px dotted brown;
     margin: 30px;
     gap: 65px;
 }
