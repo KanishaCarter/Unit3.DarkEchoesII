@@ -1,0 +1,23 @@
+body {
+    background-color: khaki;
+    
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+
+.episodes-list {
+    text-align: center;
+    max-width: 50%;
+    border: 5px dotted black;
+    margin: 30px;
+    gap: 65px;
+}
+
+.details-section {
+    margin: 25px;
+}
+
